@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    outline: 0;
+}
+
+body{
+    margin-top: 10%;
+    background-color: #152a6e;
+}
+
+form{
+    margin: 1rem 25% 1.5rem 25%;
+    background-color: #4369e7d3;
+    padding: 100px 50px 100px 50px;
+    border-radius: 2rem;
+}
+
+p{
+    font-weight: bolder;
+    margin-top: 1rem;
+}
+
+input{
+    font-size: 1.2rem;
+    margin-top: 25px;
+    border-radius: 0.8rem;
+    border: none;
+    padding: 15px 30px 15px 30px;
+}
+
+.butaozaozaozao{
+    cursor: pointer;
+    background-color: #47ff75;
+    color: #227236;
+    font-weight: bolder;
+    transition: 0.3s;
+}
+.butaozaozaozao:hover{
+    background-color: #143f1e;
+}
